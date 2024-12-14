@@ -1,7 +1,4 @@
-pandas 
+pandas
 scikit-learn
-shutil
-pathlib
-json
 matplotlib
-typing
+
