@@ -1,7 +1,0 @@
-pandas 
-sklearn
-shutil
-pathlib
-json
-matplotlib
-typing
